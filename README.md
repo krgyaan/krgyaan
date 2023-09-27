@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Gyan Prakash Kumar and I'm a Web Developer,  from  India</h1>
+<h1 align="center">Hi 👋! My name is Gyan Prakash Kumar</h1>
 
 ###
 
