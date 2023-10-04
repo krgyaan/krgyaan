@@ -50,14 +50,6 @@
 </div>
 
 ###
-<div align="center">
-  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krgyaan&theme=2077)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=krgyaan&theme=codestackr&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-  
-</div>
-
-###
 
 <div align="right">
   <img src="https://profile-counter.glitch.me/krgyaan/count.svg?"  />
