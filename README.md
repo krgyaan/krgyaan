@@ -10,7 +10,7 @@
 
 ###
 
-<div align="center" backgroung="#fff">
+<div align="center">
  <p align="center">
   <a href="">
     <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,ts,react,nextjs,mongodb,nodejs,express,php,mysql,laravel,git,java,cpp,firebase,figma,postman&perline=10" />
