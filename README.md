@@ -32,11 +32,8 @@
 </div>
 
 <div align="center">
-#### Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just say hi. 😊
+ Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just say hi. 😊
 </div>
 <div align="right">
   <img src="https://profile-counter.glitch.me/krgyaan/count.svg?" />
 </div>
-
-###
-
