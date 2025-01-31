@@ -40,7 +40,7 @@
 
 ###
 
-<div align="center">
+<div align="center" style="display:none;">
   <div>
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krgyaan&theme=2077)
