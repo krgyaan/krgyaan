@@ -2,13 +2,10 @@
   
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=krgyaan&data=repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
-<!--
 ![Metrics](https://metrics.lecoq.io/krgyaan?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FCalcutta&config.twemoji=true&config.octicon=true)
--->
 
 </div>
 
-###
 
 <div align="center">
  <p align="center">
@@ -17,8 +14,6 @@
   </a>
 </p>
 </div>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/krgyaan" target="_blank">
@@ -38,8 +33,9 @@
   </a>
 </div>
 
-###
-
+<div align="center">
+#### Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just say hi. 😊
+</div>
 <div align="right">
   <img src="https://profile-counter.glitch.me/krgyaan/count.svg?" />
 </div>
