@@ -40,16 +40,8 @@
 
 ###
 
-<div align="center" style="display:none;">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krgyaan&theme=2077)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=krgyaan&theme=2077)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krgyaan&theme=2077)
-</div>
-
-###
-
 <div align="right">
-  <img src="https://profile-counter.glitch.me/krgyaan/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/krgyaan/count.svg?" />
 </div>
 
 ###
