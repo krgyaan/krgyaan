@@ -41,13 +41,9 @@
 ###
 
 <div align="center" style="display:none;">
-  <div>
-
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krgyaan&theme=2077)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=krgyaan&theme=2077)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krgyaan&theme=2077)
-  
-  </div>
 </div>
 
 ###
