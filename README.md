@@ -32,8 +32,11 @@
 </div>
 
 <div align="center">
- Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just say hi. 😊
+
+![krgyaan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=krgyaan&theme=vue-dark&hide_border=true)
+ 
 </div>
+
 <div align="right">
   <img src="https://profile-counter.glitch.me/krgyaan/count.svg?" />
 </div>
