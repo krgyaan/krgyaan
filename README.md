@@ -1,8 +1,9 @@
 <div align="center">
  
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=krgyaan&data=repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+ ![gyan-prakash-transparent](https://github.com/user-attachments/assets/c519af93-2357-488b-ac09-9daf08bfb6ee)
 
 </div>
+
 
 
 <div align="center">
