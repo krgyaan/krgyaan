@@ -38,6 +38,14 @@
  
 </div>
 
-<div align="right">
+<div align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krgyaan&show_icons=true&locale=en&layout=compact" alt="krgyaan" /></p>
+</div>
+
+<div align="center">
   <img src="https://profile-counter.glitch.me/krgyaan/count.svg?" />
+</div>
+
+<div align="center">
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krgyaan" alt="krgyaan" /></a> </p>
 </div>
