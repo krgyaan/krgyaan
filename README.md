@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gyan Prakash</h1>
 <h3 align="center">Software Developer | Backend & Full-Stack</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krgyaan&label=Profile%20Views&color=0e75b6&style=flat" alt="krgyaan" />
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/_gyaan_" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/_gyaan_?logo=twitter&style=for-the-badge" />
-  </a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
