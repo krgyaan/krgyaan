@@ -51,7 +51,7 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+<div align="center" style="display: flex; justify-content: center; gap: 16px;">
 
   <img
     src="https://github-readme-stats-fast.vercel.app/api?username=krgyaan&show_icons=true&theme=radical"
