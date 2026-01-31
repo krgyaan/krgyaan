@@ -51,23 +51,9 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="center" style="display: flex; justify-content: center; gap: 16px;">
-
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=krgyaan&show_icons=true&theme=radical"
-    height="170"
-  />
-
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=krgyaan&layout=compact&theme=tokyonight"
-    height="170"
-  />
-
-  <img
-    src="https://gh-readme-profile.vercel.app/api?username=krgyaan&theme=dark"
-    height="170"
-  />
-
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=krgyaan&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://gh-readme-profile.vercel.app/api?username=krgyaan&theme=dark" height="170" />
 </div>
 
 
