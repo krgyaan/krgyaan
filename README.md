@@ -51,7 +51,7 @@
 ---
 
 ### 📊 GitHub Stats
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: space-around;">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=krgyaan&layout=compact&theme=tokyonight" height="170" />
   <img src="https://gh-readme-profile.vercel.app/api?username=krgyaan&theme=dark" height="170" />
 </div>
