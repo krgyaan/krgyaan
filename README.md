@@ -20,28 +20,6 @@
 
 ---
 
-### 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/krgyaan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/krgyaan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/_i_gyan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/_gyaan_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@gyaan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
-  </a>
-</p>
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="left">
