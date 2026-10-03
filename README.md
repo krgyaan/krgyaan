@@ -8,7 +8,6 @@
 - 🔭 Currently working on **NestJS + ReactJS + PostgreSQL** projects  
 - 🌱 Learning **AI/ML, LLMs, and applied system design**
 - 🧠 Strong focus on **backend architecture & scalable systems**
-- 📫 Reach me at **<a href="https://twitter.com/_gyaan_" target="_blank">𝕏</a>**
 
 ---
 
