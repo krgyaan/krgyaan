@@ -8,14 +8,7 @@
 - 🔭 Currently working on **NestJS + ReactJS + PostgreSQL** projects  
 - 🌱 Learning **AI/ML, LLMs, and applied system design**
 - 🧠 Strong focus on **backend architecture & scalable systems**
-
----
-
-### 🌐 Portfolio & Links
-
 - 💼 Portfolio: **https://gyaan.framer.website/**
-- 📝 Medium: **https://medium.com/@gyaan**
-- 📄 Resume: **[View here](https://docs.google.com/document/d/1JWK3MWBwWbDjnJA8gPtXccsb0JVmA1LkeIlSGXax3Xs/edit?usp=sharing)**
 
 ---
 
